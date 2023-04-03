@@ -1,1 +1,1 @@
-# time-js
+# timer-js
